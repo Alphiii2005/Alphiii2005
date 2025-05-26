@@ -18,6 +18,7 @@ I'm a passionate developer focused on building clean, useful, and intelligent we
 ## 🚧 Current Projects
 
 - 🔹 **AlphaBot** – One AI assistant for six task ( General assistance, CV generator, Script writing, Code assistance, Content writing, Paraphraser)
+  - *link to the site:* https://alphabot-aal9.onrender.com
 
 ## 💡 Tech Stack
 
