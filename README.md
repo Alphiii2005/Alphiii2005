@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alphiii!
+# 👋 Hey, I'm Alphin!
 
 💻 Full-stack Web Developer | 🧠 AI Enthusiast | 🚀 Building useful stuff on the internet
 
